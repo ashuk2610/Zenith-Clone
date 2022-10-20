@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Zenith-Clone/static/css/main.4aee2266.css",
+    "main.js": "/Zenith-Clone/static/js/main.81b97f18.js",
+    "index.html": "/Zenith-Clone/index.html",
+    "main.4aee2266.css.map": "/Zenith-Clone/static/css/main.4aee2266.css.map",
+    "main.81b97f18.js.map": "/Zenith-Clone/static/js/main.81b97f18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4aee2266.css",
+    "static/js/main.81b97f18.js"
+  ]
+}
